@@ -1,0 +1,5 @@
+
+[server]
+headless = true
+port = 8501  # Change this to 8501 or another port number if necessary
+enableCORS = false

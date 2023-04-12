@@ -1,0 +1,296 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "GradientBoostingRegressor",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "preprocessing",
+        "importPath": "sklearn",
+        "description": "sklearn",
+        "isExtraImport": true,
+        "detail": "sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.graph_objects",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.graph_objects",
+        "description": "plotly.graph_objects",
+        "detail": "plotly.graph_objects",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.image",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.image",
+        "description": "matplotlib.image",
+        "detail": "matplotlib.image",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pycaret.regression",
+        "description": "pycaret.regression",
+        "isExtraImport": true,
+        "detail": "pycaret.regression",
+        "documentation": {}
+    },
+    {
+        "label": "percentileofscore",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "percentileofscore",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.subplots",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.subplots",
+        "description": "plotly.subplots",
+        "detail": "plotly.subplots",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.express",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.express",
+        "description": "plotly.express",
+        "detail": "plotly.express",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.io",
+        "description": "plotly.io",
+        "detail": "plotly.io",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "censusgeocode",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "censusgeocode",
+        "description": "censusgeocode",
+        "detail": "censusgeocode",
+        "documentation": {}
+    },
+    {
+        "label": "add_logo",
+        "kind": 2,
+        "importPath": "14_Predictions",
+        "description": "14_Predictions",
+        "peekOfCode": "def add_logo(logo_path, width, height):\n    \"\"\"Read and return a resized logo\"\"\"\n    logo = Image.open(logo_path)\n    modified_logo = logo.resize((width, height))\n    return modified_logo\n# OR\ndef train_best_model(X_features1, X_features2, multi_model_results, all_models_dict, preprocessed_df, predict_col):\n    X_features = []\n    for feature, selected in X_features1.items():\n        if selected: X_features.append(feature)",
+        "detail": "14_Predictions",
+        "documentation": {}
+    },
+    {
+        "label": "train_best_model",
+        "kind": 2,
+        "importPath": "14_Predictions",
+        "description": "14_Predictions",
+        "peekOfCode": "def train_best_model(X_features1, X_features2, multi_model_results, all_models_dict, preprocessed_df, predict_col):\n    X_features = []\n    for feature, selected in X_features1.items():\n        if selected: X_features.append(feature)\n    for feature, selected in X_features2.items():\n        if selected: X_features.append(feature)\n    #create model of best result\n    multi = multi_model_results\n    best_model = multi.iloc[0]['Model']\n    model_code = all_models_dict[best_model]",
+        "detail": "14_Predictions",
+        "documentation": {}
+    },
+    {
+        "label": "check_password",
+        "kind": 2,
+        "importPath": "14_Predictions",
+        "description": "14_Predictions",
+        "peekOfCode": "def check_password():\n    \"\"\"Returns `True` if the user had the correct password.\"\"\"\n    def password_entered():\n        \"\"\"Checks whether a password entered by the user is correct.\"\"\"\n        if st.session_state[\"password\"] == st.secrets[\"password\"]:\n            st.session_state[\"password_correct\"] = True\n            del st.session_state[\"password\"]  # don't store password\n        else:\n            st.session_state[\"password_correct\"] = False\n    if \"password_correct\" not in st.session_state:",
+        "detail": "14_Predictions",
+        "documentation": {}
+    },
+    {
+        "label": "mpl.rcParams['figure.dpi']",
+        "kind": 5,
+        "importPath": "14_Predictions",
+        "description": "14_Predictions",
+        "peekOfCode": "mpl.rcParams['figure.dpi'] = 200\nimport plotly.subplots as sp\nimport plotly.express as px\nimport plotly.io as pio\nimport io\nimport streamlit as st\nimport os\nimport pickle\nimport joblib\nimport sys",
+        "detail": "14_Predictions",
+        "documentation": {}
+    },
+    {
+        "label": "add_logo",
+        "kind": 2,
+        "importPath": "PredictionsWebApp",
+        "description": "PredictionsWebApp",
+        "peekOfCode": "def add_logo(logo_path, width, height):\n    \"\"\"Read and return a resized logo\"\"\"\n    logo = Image.open(logo_path)\n    modified_logo = logo.resize((width, height))\n    return modified_logo\ndef check_password():\n    \"\"\"Returns `True` if the user had the correct password.\"\"\"\n    global IS_LOGIN_PAGE\n    if not IS_LOGIN_PAGE:\n        return True",
+        "detail": "PredictionsWebApp",
+        "documentation": {}
+    },
+    {
+        "label": "check_password",
+        "kind": 2,
+        "importPath": "PredictionsWebApp",
+        "description": "PredictionsWebApp",
+        "peekOfCode": "def check_password():\n    \"\"\"Returns `True` if the user had the correct password.\"\"\"\n    global IS_LOGIN_PAGE\n    if not IS_LOGIN_PAGE:\n        return True\n    def password_entered():\n        \"\"\"Checks whether a password entered by the user is correct.\"\"\"\n        if st.session_state[\"password\"] == st.secrets[\"password\"]:\n            st.session_state[\"password_correct\"] = True\n            del st.session_state[\"password\"]  # don't store password",
+        "detail": "PredictionsWebApp",
+        "documentation": {}
+    },
+    {
+        "label": "IS_LOGIN_PAGE",
+        "kind": 5,
+        "importPath": "PredictionsWebApp",
+        "description": "PredictionsWebApp",
+        "peekOfCode": "IS_LOGIN_PAGE = False\ndef add_logo(logo_path, width, height):\n    \"\"\"Read and return a resized logo\"\"\"\n    logo = Image.open(logo_path)\n    modified_logo = logo.resize((width, height))\n    return modified_logo\ndef check_password():\n    \"\"\"Returns `True` if the user had the correct password.\"\"\"\n    global IS_LOGIN_PAGE\n    if not IS_LOGIN_PAGE:",
+        "detail": "PredictionsWebApp",
+        "documentation": {}
+    }
+]
